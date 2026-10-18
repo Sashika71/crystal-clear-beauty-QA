@@ -23,8 +23,8 @@
 
 | Document | Description | Link |
 |----------|-------------|------|
-| Test Scenarios | High-level scenarios covering the application | [View Test Scenarios](Test%20Documents/Test%20Scenarios) |
-| Detailed Test Cases | Step-by-step test cases with test data and expected results | [View Detailed Test Cases](Test%20Documents/Test%20cases) |
+| Test Scenarios | High-level scenarios covering the application | [View Test Scenarios](https://github.com/Sashika71/crystal-clear-beauty-QA/blob/main/Test%20Documents/Test%20Scenarios.xlsx) |
+| Detailed Test Cases | Step-by-step test cases with test data and expected results | [View Detailed Test Cases](https://github.com/Sashika71/crystal-clear-beauty-QA/blob/main/Test%20Documents/Test%20cases.xlsx) |
 
 ## 🔗 Application Repositories
 
