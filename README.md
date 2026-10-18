@@ -23,10 +23,8 @@
 
 | Document | Description | Link |
 |----------|-------------|------|
-| Test Scenarios | High-level scenarios covering the application | [View Test Scenarios](test-documents/Test-Scenarios.xlsx) |
-| Detailed Test Cases | Step-by-step test cases with test data and expected results | [View Detailed Test Cases](test-documents/Detailed-Test-Cases.xlsx) |
-
----
+| Test Scenarios | High-level scenarios covering the application | [View Test Scenarios](Test%20Documents/Test%20Scenarios) |
+| Detailed Test Cases | Step-by-step test cases with test data and expected results | [View Detailed Test Cases](Test%20Documents/Test%20cases) |
 
 ## 🔗 Application Repositories
 
